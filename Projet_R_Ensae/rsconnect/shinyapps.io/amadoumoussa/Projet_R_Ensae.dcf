@@ -1,0 +1,13 @@
+name: Projet_R_Ensae
+title: Projet_R_Ensae
+username: amadoumoussa
+account: amadoumoussa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9500970
+bundleId: 7491172
+url: https://amadoumoussa.shinyapps.io/Projet_R_Ensae/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: AMADOU_Moussa.docx|AMADOU_Moussa.log|AMADOU_Moussa.pdf|AMADOU_Moussa.Rmd|AMADOU_Moussa.tex|Base_Partie 1.xlsx|Base_Partie 2.xlsx|ENSAE.jpg|gadm36_SEN_shp.zip|Mon_Application/app.R|Moussa_AMADOU/app.R|Projet-R-ENSAE-2023.docx|projet.pdf|AMADOU_Moussa_files|données_SEN
